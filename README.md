@@ -60,15 +60,10 @@ Same topics, different approaches - both platforms serve unique purposes in buil
 ## Connect With Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/rahatahsan/)  
-🐦 [Twitter/X](https://x.com/RahatAhsan20)  
-💻 [DevOps Lab](https://github.com/YOUR-USERNAME/devops-lab)
-
+🐦 [Twitter/X](https://x.com/RahatAhsan20)
 ---
 
 ⭐ **Star this repo** if you're following along with my DevOps journey or find the content useful!
 
 *This archive is updated regularly as new content is published.*
-```
-
----
 
