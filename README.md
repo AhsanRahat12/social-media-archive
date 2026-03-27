@@ -50,7 +50,6 @@ Same topics, different approaches - each platform serves a unique purpose in bui
 ## Stats
 - **Total Posts:** [Update regularly]
 - **Primary Topics:** Docker, Kubernetes, Linux, Career Growth, DevOps Practices
-- **Started:** January 2025
 - **Posting Frequency:** 5-7 posts/week (LinkedIn & X) · 3-4 posts/month (Medium)
 
 ## Connect With Me
