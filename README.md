@@ -51,11 +51,14 @@ Same topics, different approaches - each platform serves a unique purpose in bui
 **Tech Stack:** Python, Bash, Linux (Arch), Docker, Kubernetes, SQL, Power BI, Git
 
 ## Stats
-- **Total Posts:** 124 LinkedIn · 123 X threads · 11 blog posts
+![LinkedIn Posts](https://img.shields.io/github/directory-file-count/AhsanRahat12/social-media-archive/linkedin?type=file&extension=md&label=LinkedIn%20posts)
+![X Threads](https://img.shields.io/github/directory-file-count/AhsanRahat12/social-media-archive/X?type=file&extension=md&label=X%20threads)
+![Blog Posts](https://img.shields.io/github/directory-file-count/AhsanRahat12/social-media-archive/blog?type=file&extension=md&label=blog%20posts)
+
 - **Primary Topics:** Networking, Cloud (AWS/Azure), Kubernetes, Security, DevOps Practices
 - **Posting Frequency:** 5-7 posts/week (LinkedIn & X) · 1-2 posts/month (Blog)
 
-*Stats above are recalculated and updated automatically each time a new post is archived.*
+*Post counts above are live badges pulled straight from GitHub's API — always current, no manual updates needed.*
 
 ## Connect With Me
 💼 [LinkedIn](https://www.linkedin.com/in/rahatahsan/)  
