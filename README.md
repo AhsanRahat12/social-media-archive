@@ -13,11 +13,14 @@ This repository serves as a permanent record of all technical posts, insights, a
 
 ## What You'll Find Here
 This archive contains posts covering:
+- **Networking** - OSI model, TCP/IP, subnetting, VLANs, BGP, firewalls, VPNs
+- **Security & Cryptography** - Encryption, TLS, KMS, hashing, digital signatures, secrets management
+- **Kubernetes & Orchestration** - Container orchestration, deployment strategies, Helm, GitOps
+- **Cloud (AWS & Azure)** - IAM, Terraform, managed identities, node pools
+- **Storage & Databases** - iSCSI/NFS, PostgreSQL HA, CSI, backups
 - **Docker & Containerization** - Security practices, optimization techniques, real-world implementations
 - **Linux Administration** - Commands, troubleshooting, system management
-- **Kubernetes & Orchestration** - Container orchestration, deployment strategies
-- **DevOps Best Practices** - Workflows, tools, career insights
-- **Career Development** - Professional growth, learning strategies, community building
+- **Homelab & DevOps Practices** - Workflows, tools, career insights
 
 Each post includes the original content exactly as shared on social media, along with metadata like posting date, platform, and relevant topics.
 
@@ -27,30 +30,32 @@ social-media-archive/
 ├── README.md
 ├── linkedin/
 │   └── Individual LinkedIn posts organized by date and topic
-├── twitter/
+├── X/
 │   └── Twitter/X threads and posts organized by date and topic
-└── medium/
+└── blog/
     └── Blog posts organized by date and topic
 ```
 
 ## Content Formats
-**LinkedIn posts** are comprehensive, tutorial-style content with structured formatting, code examples, and detailed explanations.
+**LinkedIn posts** are short, conversational-technical posts (2-5 sentences per paragraph) - reads like a war story or a lesson learned, often ending with a question to invite discussion.
 
-**Twitter/X threads** are conversational, opinion-based content with personal stories, quick tips, and bite-sized insights.
+**Twitter/X threads** are numbered, punchy thread format - the same idea as the LinkedIn post, compressed into short, staccato entries.
 
-**Medium blogs** are long-form, in-depth technical articles covering deep dives, walkthroughs, and structured guides. Published roughly 3–4 times per month.
+**Blog posts** are long-form, tutorial-style articles with structured headers, code examples, and in-depth walkthroughs.
 
 Same topics, different approaches - each platform serves a unique purpose in building my professional presence.
 
 ## My Background
-**Current Role:** Data Analyst Intern @ Green World Fashions Ltd  
+**Current Role:** Data Analyst @ Green World Fashions Ltd  
 **Learning Path:** KubeCraft DevOps Internship (Docker → Kubernetes progression)  
 **Tech Stack:** Python, Bash, Linux (Arch), Docker, Kubernetes, SQL, Power BI, Git
 
 ## Stats
-- **Total Posts:** [Update regularly]
-- **Primary Topics:** Docker, Kubernetes, Linux, Career Growth, DevOps Practices
-- **Posting Frequency:** 5-7 posts/week (LinkedIn & X) · 3-4 posts/month (Medium)
+- **Total Posts:** 124 LinkedIn · 123 X threads · 11 blog posts
+- **Primary Topics:** Networking, Cloud (AWS/Azure), Kubernetes, Security, DevOps Practices
+- **Posting Frequency:** 5-7 posts/week (LinkedIn & X) · 1-2 posts/month (Blog)
+
+*Stats above are recalculated and updated automatically each time a new post is archived.*
 
 ## Connect With Me
 💼 [LinkedIn](https://www.linkedin.com/in/rahatahsan/)  
